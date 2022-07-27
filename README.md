@@ -1,4 +1,6 @@
-hey, im glych, im currently 13 years old, im trying to get into cyber security and am currently learning python and doing random projects, ill try to post some of my projects on here
+Cybersecurity-
+python
+networking
+And more!
 
-
-curently, im working on glyched-tool
+currently working with Zaphics
